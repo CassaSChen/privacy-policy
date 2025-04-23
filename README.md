@@ -1,1 +1,53 @@
 # privacy-policy
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - C & Y SNC</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 40px; max-width: 800px; margin: auto; }
+    h1, h2 { color: #444; }
+  </style>
+</head>
+<body>
+  <h1>Informativa sulla Privacy</h1>
+  <p><strong>Ai sensi dell’art. 13 del Regolamento (UE) 2016/679 (GDPR)</strong></p>
+
+  <h2>1. Titolare del trattamento</h2>
+  <p>
+    C & Y SNC di Chen Hao Lorenzo e Yang Guo Wei<br>
+    Via Daniele Manin 4, 36040 Sossano (VI)<br>
+    Email: info@sossano-casastore.it<br>
+    P.IVA: 04556340240
+  </p>
+
+  <h2>2. Finalità del trattamento</h2>
+  <p>I dati personali forniti saranno trattati per:
+    <ul>
+      <li>Registrazione e creazione di un account utente</li>
+      <li>Comunicazioni funzionali al servizio richiesto</li>
+      <li>Invio di newsletter (solo se autorizzato)</li>
+      <li>Adempimenti di obblighi di legge</li>
+    </ul>
+  </p>
+
+  <h2>3. Base giuridica del trattamento</h2>
+  <p>Il trattamento si basa su contratto (art. 6.1.b) e sul consenso per la newsletter (art. 6.1.a GDPR).</p>
+
+  <h2>4. Modalità del trattamento</h2>
+  <p>I dati sono trattati elettronicamente, con misure di sicurezza adeguate.</p>
+
+  <h2>5. Conservazione dei dati</h2>
+  <p>I dati saranno conservati per il tempo necessario al raggiungimento delle finalità.</p>
+
+  <h2>6. Comunicazione dei dati</h2>
+  <p>I dati non saranno comunicati a terzi, salvo obblighi di legge o soggetti strettamente necessari.</p>
+
+  <h2>7. Diritti dell’interessato</h2>
+  <p>L'interessato può richiedere accesso, rettifica, cancellazione, limitazione, opposizione o portabilità scrivendo a: info@sossano-casastore.it</p>
+
+  <h2>8. Reclami</h2>
+  <p>Reclami possono essere presentati al Garante: <a href="https://www.garanteprivacy.it">garanteprivacy.it</a></p>
+</body>
+</html>
